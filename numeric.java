@@ -9,7 +9,7 @@ class Guvi
 		String a=s.next();
 		try
 		{
-			Integer.parseInt(a);
+			Float.parseFloat(a);
 			System.out.println("yes");
 		}
 		catch(NumberFormatException e)
