@@ -14,7 +14,7 @@ class Guvi
 		}
 		catch(NumberFormatException e)
 		{
-			System.out.println("No");
+			System.out.println("no");
 		}
 	}
 }
